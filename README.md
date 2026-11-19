@@ -4,6 +4,8 @@
 
 A tiny menu bar app that makes every Finder window use the grouping and sorting you choose — by Kind, Date, Size and more — automatically, every time you open a folder.
 
+<img src="docs/hero.png" alt="Every Finder window, sorted automatically">
+
 <img src="docs/panel.png" width="340" alt="Finder Grouping Assistant panel">
 
 ## Download

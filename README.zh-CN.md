@@ -4,6 +4,8 @@
 
 一个很小的菜单栏工具：让每个 Finder 窗口自动使用你选的分组和排序（种类、日期、大小等），每次打开文件夹都生效。
 
+<img src="docs/hero.png" alt="每个 Finder 窗口自动分组排序">
+
 <img src="docs/panel.png" width="340" alt="Finder 分组助手面板">
 
 ## 下载

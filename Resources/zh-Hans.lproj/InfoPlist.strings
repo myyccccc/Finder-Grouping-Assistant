@@ -1,0 +1,3 @@
+"CFBundleDisplayName" = "Finder 分组助手";
+"CFBundleName" = "Finder 分组助手";
+"NSAppleEventsUsageDescription" = "用于选择 Finder 原生分组与排序菜单. 不上传文件，无第三方运行时";

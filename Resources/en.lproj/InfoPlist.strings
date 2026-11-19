@@ -1,0 +1,3 @@
+"CFBundleDisplayName" = "Finder Grouping Assistant";
+"CFBundleName" = "Finder Grouping Assistant";
+"NSAppleEventsUsageDescription" = "Selects Finder’s native grouping and sorting menus. No uploads or third-party runtimes";

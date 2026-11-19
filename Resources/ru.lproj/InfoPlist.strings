@@ -1,0 +1,3 @@
+"CFBundleDisplayName" = "Помощник группировки Finder";
+"CFBundleName" = "Помощник группировки Finder";
+"NSAppleEventsUsageDescription" = "Выбирает системные меню группировки и сортировки Finder.. Без отправки файлов и сторонних сред";

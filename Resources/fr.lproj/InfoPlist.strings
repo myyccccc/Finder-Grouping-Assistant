@@ -1,0 +1,3 @@
+"CFBundleDisplayName" = "Assistant de groupes Finder";
+"CFBundleName" = "Assistant de groupes Finder";
+"NSAppleEventsUsageDescription" = "Choisit les menus natifs de regroupement et tri Finder.. Aucun envoi ni moteur tiers";

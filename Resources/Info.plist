@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Finder 分组助手</string>
+	<key>CFBundleExecutable</key>
+	<string>FinderGroupingAssistant</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.findergrouping.assistant</string>
+	<key>CFBundleLocalizations</key>
+	<array>
+		<string>en</string>
+		<string>zh-Hans</string>
+		<string>zh-Hant</string>
+		<string>ja</string>
+		<string>ko</string>
+		<string>de</string>
+		<string>fr</string>
+		<string>es</string>
+		<string>pt-BR</string>
+		<string>it</string>
+		<string>ru</string>
+		<string>ar</string>
+		<string>hi</string>
+	</array>
+	<key>CFBundleName</key>
+	<string>Finder 分组助手</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.2.7</string>
+	<key>CFBundleVersion</key>
+	<string>28</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>13.0</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>用于读取当前 Finder 文件夹，并选择 Finder 原生分组与排序菜单。不会移动文件或上传内容。</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+</dict>
+</plist>
